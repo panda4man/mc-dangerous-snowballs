@@ -1,0 +1,6 @@
+name: DangerousSnowballs
+main: com.aclinton.plugins.dangeroussnowballs.Main
+version: 0.0.1
+description: Careful they are hot
+author: Andrew Clinton
+api-version: 1.16
